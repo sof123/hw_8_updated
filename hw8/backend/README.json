@@ -1,0 +1,6 @@
+{
+     "netid": "sof1",
+  "frontend": "http://godly-pizzas.surge.sh/",
+   "backend": "http://localhost:3000/",
+   "note":"I am not sure how you will be able to connect to the database without knowing my login info in the .env file. The server is not working on heroku so run it on localhost"
+}
